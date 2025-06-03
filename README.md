@@ -1,6 +1,6 @@
 ## Hello, i`m Vlad👋
 
-#I've been in the banking sector for over three years and don't plan to stop :sunglasses:
+# I've been in the banking sector for over three years and don't plan to stop :sunglasses:
 
 I work at one of the top neobanks.:feet:
 I'm actively diving into the world of data analytics — everything related to it fascinates me. :bar_chart:
