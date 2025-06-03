@@ -2,9 +2,9 @@
 
 ## I've been in the banking sector for over three years and don't plan to stop :sunglasses:
 
-I work at one of the top neobanks.:feet:
-I'm actively diving into the world of data analytics — everything related to it fascinates me. :bar_chart:
-I'm also actively learning Python and practicing building bots with it. :space_invader:
+- I work at one of the top neobanks. :feet:
+- I'm actively diving into the world of data analytics — everything related to it fascinates me. :bar_chart:
+- I'm also actively learning Python and practicing building bots with it. :space_invader:
 
 <!--
 **vladsh627/vladsh627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
